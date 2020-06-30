@@ -1,2 +1,2 @@
-# quant_soc
+# quant_socsci
 Course Materials for Quantitative Sociology
