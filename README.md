@@ -1,2 +1,2 @@
 # quant_socsci
-Course Materials for Quantitative Sociology
+Course Materials for Quantitative Social Science in R
